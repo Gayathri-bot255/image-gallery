@@ -1,0 +1,1 @@
+This project is a simple and responsive image gallery built with HTML, CSS, and JavaScript. It allows users to view a collection of images in an organized layout. The gallery is designed to be user-friendly and visually appealing, with features like image hover effects and a modal view for larger image previews.
